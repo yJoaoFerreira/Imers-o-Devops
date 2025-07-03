@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 SQLAlchemy
+pydantic[email]
 
 # Adicione o driver do seu banco de dados aqui, por exemplo:
 # psycopg2-binary  # para PostgreSQL
